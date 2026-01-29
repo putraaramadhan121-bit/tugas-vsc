@@ -26,7 +26,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="2. Prana Yanuar Dana"
+        android:text="2. Dudi Fitriahadi"
         android:textStyle="bold"
         android:textSize="14sp"/>
 
